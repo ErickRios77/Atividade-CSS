@@ -1,0 +1,30 @@
+body{
+    margin:0;
+}
+.top{
+    background-color: #a95d80;
+    width: 750px;
+    height: 450px;
+}
+.topChild{
+    background-color: #654b27;
+    width: 20%;
+    height: 20%;
+}
+p{
+    color: blue;
+    background-color: orange;
+    font-size: 15px;
+    font-family: serif;
+    font-weight:bolder;
+}
+.bottom{
+    width: 50%;
+    height: 20vh;
+    background-color: rgb(45, 5, 29);
+}
+.bottomChild{
+    width: 10vw;
+    height: 30%;
+    background-color: rgb(132, 130, 137);
+}
